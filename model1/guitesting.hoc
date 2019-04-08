@@ -1,0 +1,13 @@
+newparams = ModelParameters()
+a_2 = newparams.a_2
+
+objref vbox,g
+vbox = new VBox()
+vbox.intercept(1)
+xpanel("gui")
+xlabel("please work")
+xslider(&a_2,0.1,0.3,"send_cmd",1,0)
+xbutton("press me","print 'button!'")
+xpanel()
+vbox.intercept(0)
+vbox.map()
