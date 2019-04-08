@@ -4,3 +4,5 @@ vbox neuron api: https://www.neuron.yale.edu/neuron/static/docs/help/neuron/gene
 neuron installation (with interviews): https://www.neuron.yale.edu/neuron/download#linux
 
 neuron manual compilation tutorial: https://neuron.yale.edu/neuron/download/compile_linux
+
+neuron github https://github.com/neuronsimulator
